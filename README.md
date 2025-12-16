@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,git,github)
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mahi27makvana&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=mahimakvana&show_icons=true&theme=dark)
 ### 🤝 Let's Connect
 - 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahek-korat-787623345/)
 - 🌐 Portfolio: Coming Soon 🚀

@@ -13,8 +13,5 @@
 ### 🤝 Let's Connect
 - 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahek-korat-787623345/)
 - 🌐 Portfolio: Coming Soon 🚀
-## 🤝 Let’s Connect
-- 🌐 Portfolio: https://yourwebsite.com
-- 💼 LinkedIn: https://linkedin.com/in/yourname
-- 🐦 Twitter: https://twitter.com/yourname
+
 

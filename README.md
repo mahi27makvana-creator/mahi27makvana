@@ -8,9 +8,8 @@
 - ⚡ Fun fact: *I love clean UI and animations*
 ## 🛠 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,git,github)
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mahi27makvana&show_icons=true&theme=dark)
-
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ### 🤝 Let's Connect
 - 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/mahek-korat-787623345/)
 - 🌐 Portfolio: Coming Soon 🚀
